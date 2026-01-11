@@ -1,6 +1,5 @@
 ## Olá, eu sou Gustavo Alexandre 
 
-- 🔭 Hoje eu trabalho como jovem aprendiz 
 - 🌱 Estudando JavaScript
 - 🧑‍💻 Curso Análise e Desenvolvimento de Sistemas
 
